@@ -372,8 +372,7 @@ void intro()
 	cout<<"\n\n\n\t  BANK";
 	cout<<"\n\n\tMANAGEMENT";
 	cout<<"\n\n\t  SYSTEM";
-	cout<<"\n\n\n\nMADE BY : your name";
-	cout<<"\n\nSCHOOL : your school name";
+	cout<<"\n\n\n\nMADE BY : AliElm Dev";
 	getch();
 }
 
